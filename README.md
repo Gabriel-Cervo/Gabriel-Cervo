@@ -2,7 +2,7 @@
 
 ## Olá! 👋
 
-Tenho 18 anos e sou atual estudante de Ciência da Computação na PUCRS
+Tenho 18 anos e sou atual estudante de Ciência da Computação na PUCRS <br/>
 Sou um Desenvolvedor FullStack :computer: 
 
  <br/> :books: &nbsp; Atualmente estou buscando me aperfeiçoar no desenvolvimento web
