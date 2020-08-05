@@ -10,6 +10,6 @@ Sou um Desenvolvedor FullStack :computer:
  <br/> 💬  &nbsp; Sobre mim: Amo tecnologias e estou sempre buscando aprender algo novo, gosto de videogames e de cozinhar
  <br/> :email: &nbsp; Contatos: 
  
- [![Linkedin Badge](https://img.shields.io/badge/Gabriel--Cervo-Linkedin-blue?link=https://www.linkedin.com/in/joaogabrielcervo/?style=flat-square&logo=Linkedin])(https://www.linkedin.com/in/joaogabrielcervo)
+ [![Linkedin Badge](https://img.shields.io/badge/Gabriel--Cervo-Linkedin-blue?link=https://www.linkedin.com/in/joaogabrielcervo/?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/joaogabrielcervo)
  
- [![Gmail Badge](https://img.shields.io/badge/Gabriel--Cervo-Email-red?link=mailto:joaogabrieldouradocervo@gmail.com/?style=flat-square&logo=Gmail&logoColor=white])(mailto:joaogabrieldouradocervo@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/Gabriel--Cervo-Email-red?link=mailto:joaogabrieldouradocervo@gmail.com/?style=flat-square&logo=Gmail&logoColor=white)](mailto:joaogabrieldouradocervo@gmail.com)
