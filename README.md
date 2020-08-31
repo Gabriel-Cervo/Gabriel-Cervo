@@ -1,6 +1,6 @@
-# João Gabriel Dourado Cervo
+# Oi! Bem vindo ao meu perfil 👋
 
-## Olá! 👋
+## Sobre mim
 
 Tenho 18 anos e sou atual estudante de Ciência da Computação na PUCRS <br/>
 Sou um Desenvolvedor FullStack :computer: 
