@@ -7,17 +7,7 @@ Sou formado no curso técnico em informática no Instituto Federal Farroupilha -
 <br /> :books: &nbsp; Atualmente estou buscando me aperfeiçoar em desenvolvimento web, com foco em React e JS.
 <br /> 💬  &nbsp; Sobre mim: Amo tecnologias e estou sempre buscando aprender algo novo, gosto de videogames e de cozinhar
 
-### ⚒️ Minha stack
-
-<p>
-   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
-   <img src="https://img.shields.io/badge/node.js%20-%2368a063.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-<p>
-    <img src="https://img.shields.io/badge/%20-Mongodb-green?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cervo&layout=compact&theme=radical)
 
 ### :email: Contatos
 
