@@ -10,17 +10,6 @@ Tenho 19 anos e sou atual estudante de Ciência da Computação na PUCRS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cervo&layout=compact&theme=radical)
 
-### :email: Contatos
-
-<p>
-
- [![Gmail Badge](https://img.shields.io/badge/Gabriel--Cervo-Email-red?link=mailto:joaogabrieldouradocervo@gmail.com/?style=flat-square&logo=Gmail&logoColor=white)](mailto:joaogabrieldouradocervo@gmail.com)
-
- [![Linkedin Badge](https://img.shields.io/badge/Gabriel--Cervo-Linkedin-blue?link=https://www.linkedin.com/in/joaogabrielcervo/?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/joaogabrielcervo)
-
-</p>
-
-
 ### :email: Contatos:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaogabrielcervo/)](https://www.linkedin.com/in/joaogabrielcervo/)
