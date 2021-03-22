@@ -9,7 +9,7 @@ I'm João Gabriel Cervo, 19 years old and a Computer Science student at PUCRS
 <br />
 <br /> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaogabrielcervo/)](https://www.linkedin.com/in/joaogabrielcervo/)
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cervo&layout=compact&theme=radical" alt="Gabriel Cervo Most used languages" width="35%" /> ](https://github.com/Gabriel-Cervo)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cervo&layout=compact&theme=radical" alt="Gabriel Cervo Most used languages" width="50%" /> ](https://github.com/Gabriel-Cervo)
 
 <img src="https://img.shields.io/badge/-Swift-ed9121" />  <img src="https://img.shields.io/badge/-JS/TS-fff200" /> <img src="https://img.shields.io/badge/-React%20JS-2a9df4" /> <img src="https://img.shields.io/badge/-React%20Native-03254c" /> 
 
