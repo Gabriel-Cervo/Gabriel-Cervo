@@ -10,25 +10,22 @@
 
 - :computer: I'm also graduate in IT at Instituto Federal Farroupilha - Campus São Borja.
 
-- :books: I'm currently studying Swift and UX.
+- :dart: My main focus is in iOS development
 
-- 💬 I like videogames and baking!
+- :books: I'm currently studying Swift, SwiftUI and UX.
 
-<br />
+- 💬 I like playing videogames and baking!
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cervo&layout=compact&theme=radical" alt="Gabriel Cervo Most used languages" width="40%" />](https://github.com/gabriel-cervo)
 
-
 ##
 
-And these are my known languages:
+And these are my known technologies:
 
 <img src="https://img.shields.io/badge/-Swift-ed9121" /> <img src="https://img.shields.io/badge/-JS/TS-fff200" /> <img src="https://img.shields.io/badge/-React%20JS-2a9df4" /> <img src="https://img.shields.io/badge/-React%20Native-03254c" />  
-
 
 ##
 
 You can also find me on...
 
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaogabrielcervo/)"/> 
-
