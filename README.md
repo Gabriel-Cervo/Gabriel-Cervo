@@ -6,20 +6,19 @@
   <br /> :computer: &nbsp; I'm also graduate in IT at Instituto Federal Farroupilha - Campus São Borja.
   <br /> :books: &nbsp;  I'm currently studying Swift and UX.
   <br /> 💬 &nbsp; I like videogames and baking!
-  <br /> :wrench: &nbsp; My known technologies are: <br /> &nbsp;&nbsp;&nbsp;&nbsp;
-        <p> 
+  <br /> :wrench: &nbsp; My known technologies are: 
+          &nbsp;&nbsp;&nbsp;&nbsp;
           <img src="https://img.shields.io/badge/-Swift-ed9121" />  
           <img src="https://img.shields.io/badge/-JS/TS-fff200" /> 
           <img src="https://img.shields.io/badge/-React%20JS-2a9df4" /> 
           <img src="https://img.shields.io/badge/-React%20Native-03254c" />  
-        </p>
   <br /> 
-  <p> :speaker: &nbsp; You can also find me on: <br/> <br/>
+  <p> :speaker: &nbsp; You can also find me on:
+      &nbsp;
        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaogabrielcervo/)"/> 
-  </p>
   <br />
 </p>
 
-<p align="right">
+<p width="50%" align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cervo&layout=compact&theme=radical" alt="Gabriel Cervo Most used languages" width="50%" />
 </p>
