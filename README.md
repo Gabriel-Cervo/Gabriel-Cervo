@@ -18,8 +18,6 @@
 
 ### <samp>  I'm João Gabriel Cervo, 19 years old and a Computer Science student at PUCRS </samp>
 
-<samp>an Information Systems student at PUCRS in Porto Alegre, Brazil. </samp>
-
 ###
 
 - :computer: &nbsp; I'm also graduate in IT at Instituto Federal Farroupilha - Campus São Borja.
