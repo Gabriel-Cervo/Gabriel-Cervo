@@ -16,7 +16,7 @@
 
 - 💬 I like playing videogames and baking!
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cervo&layout=compact&theme=radical" alt="Gabriel Cervo Most used languages" width="40%" />](https://github.com/gabriel-cervo)
+[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cervo&layout=compact&theme=radical" alt="Gabriel Cervo Most used languages" width="42%" />](https://github.com/gabriel-cervo)
 
 ##
 
