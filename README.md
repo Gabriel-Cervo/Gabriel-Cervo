@@ -8,7 +8,7 @@
 
 ###
 
-- :computer: I'm also graduate in IT at Instituto Federal Farroupilha - Campus São Borja.
+- :computer: I'm graduate in IT at Instituto Federal Farroupilha - Campus São Borja.
 
 - :dart: My main focus is in iOS development
 
