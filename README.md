@@ -4,8 +4,6 @@
 
 ### <samp>  I'm João Gabriel Cervo, a 20 years old Computer Science student at PUCRS </samp>
 
-<samp> Also a iOS developer intern at Apple Developer Academy - PUCRS </samp>
-
 ###
 
 - :computer: I'm graduate in IT at Instituto Federal Farroupilha - Campus São Borja.
