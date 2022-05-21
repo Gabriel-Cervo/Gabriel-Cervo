@@ -2,7 +2,7 @@
 
 <img align="right" width="40%" src="https://i.chzbgr.com/full/7764511232/hBACDAE9C/simons-cat"/>
 
-### <samp>  I'm João Gabriel Cervo, a 20 years old Computer Science student at PUCRS </samp>
+### <samp>  I'm João Gabriel Cervo, a 20 years old Information Systems student at PUCRS </samp>
 
 ###
 
