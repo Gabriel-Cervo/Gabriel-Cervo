@@ -8,9 +8,9 @@
 
 - :computer: I'm graduate in IT at Instituto Federal Farroupilha - Campus São Borja.
 
-- :dart: My main focus is in mobile development
+- :dart: My main focus is in mobile development (iOS & Flutter)
 
-- :books: I'm currently studying Swift, SwiftUI and Flutter.
+- :books: I'm currently working with iOS development (Swift, UIKit, RXSwift)
 
 - 💬 I like playing videogames and baking!
 
