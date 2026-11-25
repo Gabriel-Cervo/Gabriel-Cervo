@@ -1,29 +1,43 @@
-<h2 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  </h2>
+<h2 align="center">Hey! I'm João Gabriel Cervo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="Waving hand" /></h2>
 
-<img align="right" width="40%" src="https://i.chzbgr.com/full/7764511232/hBACDAE9C/simons-cat"/>
+<p align="center">
+  <strong>Senior iOS Developer @ iFood</strong> · Mobile Engineer · Swift, SwiftUI & UIKit · AI for Dev · TypeScript & Go
+</p>
 
-### <samp>  I'm João Gabriel Cervo, a 22 years old Information Systems student at PUCRS </samp>
+---
 
-###
+### About me
 
-- :computer: I'm graduate in IT at Instituto Federal Farroupilha - Campus São Borja.
+Senior iOS Developer with ~6 years of experience building large-scale native mobile apps used by millions of people in Brazil. Currently at **iFood**, previously at **Americanas**, and **Apple Developer Academy | PUCRS** alumni.
 
-- :dart: My main focus is in mobile development (iOS & Flutter)
+- 📱 **iOS & Platform:** End-to-end mobile engineering with **Swift, SwiftUI, UIKit, Combine & Swift Concurrency**. From technical refinement and architecture to release and observability.
+- ⚡ **Modernization & DX:** Technical reference in the iOS Chapter driving **SwiftUI migration, modularization, build performance & MetricKit** initiatives.
+- 🤖 **AI-Assisted Engineering:** Building internal AI agents for **code review, support ticket triage, and technical refinement** supporting the iOS Chapter and operations teams.
+- 🛠️ **Beyond Mobile:** Developing **BFFs in TypeScript & Go** and supporting production services with **PostgreSQL** to keep an end-to-end view from app to database.
+- 🎓 **Education:** B.S. in Information Systems at **PUCRS** & IT Technician at **Instituto Federal Farroupilha (IFFar)**.
+- 🎮 **Off-screen:** Playing videogames and TTRPG.
 
-- :books: I'm currently working with iOS development (Swift, UIKit, RXSwift)
+---
 
-- 💬 I like playing videogames and baking!
+### Tech Stack
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cervo&layout=compact&theme=radical" alt="Gabriel Cervo Most used languages" width="42%" />](https://github.com/gabriel-cervo)
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
-##
+---
 
-And these are my known technologies:
+### Connect with me
 
-<img src="https://img.shields.io/badge/-Swift-ed9121" /> <img src="https://img.shields.io/badge/-JS/TS-fff200" /> <img src="https://img.shields.io/badge/-React%20JS-2a9df4" /> <img src="https://img.shields.io/badge/-React%20Native-03254c" />  
-
-##
-
-You can also find me on...
-
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaogabrielcervo/)"/> 
+<p>
+  <a href="https://www.linkedin.com/in/joaogabrielcervo/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
